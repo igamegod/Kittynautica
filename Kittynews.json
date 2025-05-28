@@ -2,11 +2,11 @@
   {
     "_id": "custom_news_001",
     "created_at": "2024-05-28",
-    "header": "Kittynautica News",
-    "image_url": "https://raw.githubusercontent.com/igamegod/Kittynautica/refs/heads/main/KittyIcon.png",
+    "header": "Custom News",
+    "image_url": "https://snupdates.s3.us-west-1.amazonaws.com/all/news/SN_Dec_22_LRGRM_ingamenews_500x500.png",
     "platform": "mobile",
     "read_more_url": "https://unknownworlds.com/en/news/",
-    "text": "Want the latest on Kittynautica? Tap below to check for new mod menu updates and features",
+    "text": "Modified by tweak!",
     "updated_at": "2024-05-28"
   }
 ]
