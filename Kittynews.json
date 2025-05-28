@@ -1,12 +1,12 @@
 [
   {
-    "_id": "custom_news_001",
-    "created_at": "1949-09-01",
-    "header": "Kittynautica News",
-    "image_url": "https://raw.githubusercontent.com/igamegod/Kittynautica/refs/heads/main/KittyIcon.png",
+    "_id": "670cd80504a003377610da30",
     "platform": "mobile",
-    "read_more_url": "https://unknownworlds.com/en/news/",
-    "text": "Want the latest on Kittynautica? Tap below to check for new mod menu updates and features.",
-    "updated_at": "2025-05-28"
+    "header": "Kittynautica newsfeed",
+    "read_more_url": "",
+    "image_url": "https://raw.githubusercontent.com/igamegod/Kittynautica/refs/heads/main/KittyIcon.png",
+    "text": "@iosdevice - meow :3",
+    "updated_at": "2024-10-14",
+    "created_at": "2024-10-14"
   }
 ]
